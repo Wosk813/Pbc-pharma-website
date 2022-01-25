@@ -1,0 +1,301 @@
+@media only screen and (max-width: 700px) {
+  .tytul_opis_glowny {
+    font-size: 20px;
+  }
+
+  .opis_glowny {
+    width: 100vw;
+    margin: unset;
+  }
+
+  .logo {
+    float: uns;
+    width: 100%;
+    padding: 5%;
+    box-sizing: border-box;   
+  }
+
+  .menu_przycisk {
+    position: relative;
+    display: block;
+    width: 50px;
+    height: 50px;
+    float: right;
+    line-height: 200%;
+    top: 30px;
+  }
+
+  .produkty .tytul_zakladki {
+    width: 50vw;
+  }
+
+  .tytul_bloczka_innowacje {
+    padding: 0;
+  }
+
+  .menu {
+    float: unset;
+    width: 100vw;
+    margin-top: -50px;
+    
+  }
+
+  .tylko_mobilka_itemki {
+    display: block;
+  }
+
+  .tylko_komp_itemki {
+    display: none;
+  }
+
+  .przycisk_menu {
+    float: unset;
+  }
+
+  .bloczek {
+    font-size: 10px;
+    width: 40%;
+    margin-left: 5%;
+    margin-right: 5%;
+    margin-bottom: 5%;
+    height: 40%;
+  }
+
+  .bloczki
+  {
+    margin-bottom: 10%;
+    height: 120vh;
+  }
+
+  .obrazek_bloczek {
+    max-width: unset;
+    width: 40%;
+  }
+
+  .linia_glowna {
+    display: none;
+  }
+
+  .do_gory {
+    display: none;
+  }
+
+  .innowacja {
+    font-size: 10px;
+  }
+
+  .tytul_zakladki {
+    font-size: 1em;
+  }    
+  
+  .tytul_zakladki_napis {
+    padding: 3px;
+    border-bottom: 2px solid #146878;
+  }
+
+  .inne_produkty {
+    float: unset;
+    width: 100%;
+    text-align: center;
+    border-left: unset;
+  }
+
+  .kontener_produkty {
+    width: 100%;
+  }
+
+  .produkt {
+    float: unset;
+    width: 100%;
+    margin-top: 0;
+  }
+
+  .tytul_produktu {
+    font-size: 18px;
+    text-align: justify;
+  }
+
+  .opis_glowny {
+    position: unset;
+    padding: 10%;
+    -webkit-box-sizing: border-box; /* Safari/Chrome, other WebKit */
+    -moz-box-sizing: border-box;    /* Firefox, other Gecko */
+    box-sizing: border-box;
+  }
+
+  .glowna {
+    background-position-x: -500px;
+    height: unset;
+  }
+
+  #zamknij_menu_tele {
+    position: absolute;
+    right: 20px;
+    top: 20px;
+    font-size: 30px;
+  }
+
+  .przycisk_menu_na_tele {
+    margin-bottom: 5%;
+  }
+
+  .download {
+    border-left: none;
+  }
+
+
+
+  #menu_na_tele {
+    display: none;
+    position: absolute;
+    height: 100vh;
+    width: 100vw;
+    background: radial-gradient(circle, rgba(26,116,125,1) 0%, rgba(16,40,78,1) 0%, rgba(0,0,0,1) 100%);
+    z-index: 100;
+    color: white;
+    box-sizing: border-box;
+    padding-top: 40%;
+    font-size: 40px;
+    padding-left: 10%;
+    text-transform: uppercase;
+  }
+
+  .spis_produkt {
+    background:  #09162a;
+    border-radius: 5px;
+    margin-bottom: 10px;
+    box-sizing: border-box;
+    padding: 10px;
+    color: white;
+    font-size: 15px;
+  }
+
+  .spis_produkt:hover {
+    color: white;
+  }
+
+  .kontakt {
+    font-size: smaller;
+  }
+
+  .kontakt .bloczki
+  {
+    margin-top: 10%;
+  }
+
+  .kontakt .bloczek
+  {
+    font-size: 15px;
+  }
+
+  .kontakt .obrazek_bloczek
+  {
+    width: 40%;
+    float: unset;
+  }
+
+  .stopka .obrazek_bloczek_logo
+  {
+    width: 100%;
+  }
+
+  .innowacja {
+    width: 90%;
+  }
+
+  .innowacje_bloczek {
+    height: 400px;
+    overflow: auto;
+    border-radius: unset;
+    overflow-x: hidden;
+  }
+
+  .innowacja .tytul_produktu {
+    font-size: 10px;
+    text-align: unset;
+  }
+
+  .formularze ol {
+    font-size: 15px;
+  }
+
+  .innowacja_opis {
+    margin-bottom: 10%;
+  }
+
+  .stopka .bloczki {
+    padding-bottom: 50%;
+  }
+
+  .produkt ol {
+    padding-inline-start: 0px;
+  }
+
+  .aaa {
+    height: 350px;
+  }
+
+  .skocznia {
+    display: none;
+  }
+
+  #bloczek1, #bloczek2, #bloczek3 {
+    padding-top: 2%;
+  }
+
+  .kontakt_bloczek {
+    width: 100%;
+    margin-bottom: 5%;
+  }
+
+  #stopka_logo {
+    display: block; 
+    width: min-content;
+    margin-left: auto;
+    margin-right: auto;
+  }
+
+  .stopka .kontakt_bloczek {
+    text-align: center;
+  }
+
+  h3 {
+    font-size: 1em;
+  }
+
+  #obrazek_mobilka {
+    display: block;
+    width: 60%;
+    margin-left: auto;
+    margin-right: auto;
+  }
+
+  #obrazek_komp {
+    display: none;
+  }
+
+  #logo_komp {
+    display: none;
+  }
+
+  #logo_mobilka {
+    display: block;
+    float: left;
+  }
+
+  .menu {
+    display: none;
+  }
+
+  .logo img {
+    width: 30%;
+  }
+
+  .reklama {
+    margin-top: 10px;
+    width: 100%;
+    position: unset;
+    text-align: center;
+    font-size: 25px;
+  }
+}
